@@ -1,0 +1,3 @@
+module GGASSIGNMENT
+
+go 1.20
